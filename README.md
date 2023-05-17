@@ -8,8 +8,8 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Trello``, <br>
-``SoapUI``, ``Chrome DevTools``.
+``Jira``,``qase.io``,``stechko``,``SQL``,`` Postman``,``Fiddler``,``Miro``,``Trello``, <br>
+``SoapUI``,``Chrome DevTools``.
 
 
 
@@ -26,7 +26,7 @@
  </ol>
  
 <p>Как решала(-а): Были проведены следующие виды тестирования: Тестирование требований, риски продукта/проекта, Smoke-тестирование нового функционала, Функциональное приемочное тестирование, Исследовательское регрессионное тестирование,
-Тестирование API <p>
+Тестирование API. <p>
 
 > <a href="https://drive.google.com/file/d/1da3oor3WYHxpcSvdFGXv3wsmRWfvfwNv/view?usp=sharing">Ссылка на проект</a>
    
