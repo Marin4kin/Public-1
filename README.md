@@ -3,13 +3,13 @@
 
 ## Обо мне 
 
-Привет! Меня зовут ``{name}``, я начинающий тестировщик. <br>
+Привет! Меня зовут ``Марина Макеева``, я начинающий тестировщик. <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
+``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Trello``, <br>
+``SoapUI``, ``Chrome DevTools``.
 
 
 
