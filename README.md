@@ -7,7 +7,7 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``sitechco``,``SQL``,`` Postman``,``Fiddler``,``Miro``,``Trello``, <br>
+``Jira``,``qase.io``,``sitechco``,``SQL``,`` Postman``,``pgAdmn4``,``Miro``,``Trello``, <br>
 ``SoapUI``,``Chrome DevTools``.
 
 
