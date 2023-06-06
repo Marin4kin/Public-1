@@ -2,7 +2,7 @@
 
 ## Обо мне 
 
-<a href="http://joxi.ru/xAexLD8iVZJ8g2" target="_blank"><img src="http://dl4.joxi.net/drive/2023/06/06/0040/0046/2662446/46/d5274a2887.jpg"></a>
+<a href="http://joxi.ru/V2VzDLGUGaEnR2" target="_blank"><img src="http://dl3.joxi.net/drive/2023/06/06/0040/0046/2662446/46/b22964d9e3.jpg"></a>
 
 Привет! Меня зовут ``Марина Макеева``, я начинающий тестировщик. <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
