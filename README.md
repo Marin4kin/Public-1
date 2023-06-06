@@ -2,7 +2,7 @@
 
 ## Обо мне 
 
-![привет](https://www.ixbt.com/img/x780/n1/news/2022/10/5/stepan_large.JPG)
+![привет](https://drive.google.com/file/d/1fVznK_ui_KLG2g8AnLWsfB0BTGY-axz-/view?usp=sharing)
 
 Привет! Меня зовут ``Марина Макеева``, я начинающий тестировщик. <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
