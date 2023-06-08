@@ -37,6 +37,6 @@ Skyeng — это онлайн-школа английского языка, к�
 </ol>
     
   В данном проекте были использованы такие инструменты: qase.io, Sitechco, Confluence, Jira, Miro, Postman.
-  <p> Фагмент Postman-коллекции (json):  <br>  
+  <p> Фагмент Postman-коллекции в Visual Studio Code (json):  <br>  
   
   <a href="http://joxi.ru/YmEXKaqiLjqNLr" target="_blank"><img src="http://dl4.joxi.net/drive/2023/06/08/0040/0046/2662446/46/a27a4c9313.jpg"></a>
