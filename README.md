@@ -8,7 +8,7 @@
 
 ## Навыки и технологии
 
-  <p> ✅ навыки: технологии: "``Jira``,``qase.io``,``sitechco``,``Trello``,``Miro``,``Notion``,``Confluence``,``Swagger``,``Postman``,``Chrome DevTools``,``pgAdmn4``,``SQL``,``SoapUI``,``JMeter``,``Mockoon``,``curl``."
+  <p> ✅ навыки: технологии: "Jira case.io sitechco Trello Miro Notion Confluence Swagger Postman Chrome DevTools pgAdmn4 SQL SoapUI JMeter Mockoon curl" проба5
   
   
 ``Jira``,``qase.io``,``sitechco``,``Trello``,``Miro``,``Notion``,``Confluence``,``Swagger``,<br>
