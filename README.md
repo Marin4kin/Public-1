@@ -86,21 +86,19 @@ Response: { code: int; result: String; }
 Была создана Postman-коллекция из 4 запросами с методом GET, и 2 переменными: 1 запрос с позитивными данными и 3 запроса с негативными (Тест на превышение лимита запросов для этого тарифа не проводился.)<p>
   
 Задание 4:  Запросы SQL для данных из 2-х таблиц animal_info и animal_classes.<br>
-1)сколько всего животных у Вани?<br>
-можно посчитать имена животных Вани:<br>
+1)сколько всего животных у Вани? Можно посчитать имена животных Вани:<br>
 SELECT COUNT (name)
 FROM animal_info 
-WHERE owner='Ваня';
+WHERE owner='Ваня';<br>
 можно посчитать сколько раз встречается владелец Ваня<br>
 SELECT COUNT (owner) 
 FROM animal_info 
 WHERE owner='Ваня';<br>
-2)имена всех кошек<br>
-можно найти соединением 2-х таблиц<br>
+2)имена всех кошек можно найти соединением 2-х таблиц<br>
 SELECT name 
 FROM animal_info ai 
 JOIN animal_classes ac ON ai.class=ac.id  
-WHERE ac.class='кошка';
+WHERE ac.class='кошка';<br>
 а можно с помощью подзапроса<br>
 SELECT name 
 FROM animal_info 
