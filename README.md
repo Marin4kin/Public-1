@@ -8,8 +8,7 @@
 
 ## Навыки и технологии
 
-  <p> ✅ Проект 4: ТЗ от заказчика: "``Jira``,``qase.io``,``sitechco``,``Trello``,``Miro``,``Notion``,``Confluence``,``Swagger``,<br>
-``Postman``,``Chrome DevTools``,``pgAdmn4``,``SQL``,``SoapUI``,``JMeter``,``Mockoon``,``curl``.
+  <p> ✅ навыки: технологии: "``Jira``,``qase.io``,``sitechco``,``Trello``,``Miro``,``Notion``,``Confluence``,``Swagger``,``Postman``,``Chrome DevTools``,``pgAdmn4``,``SQL``,``SoapUI``,``JMeter``,``Mockoon``,``curl``."
   
   
 ``Jira``,``qase.io``,``sitechco``,``Trello``,``Miro``,``Notion``,``Confluence``,``Swagger``,<br>
