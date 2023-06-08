@@ -76,7 +76,19 @@ Response: { code: int; result: String; }
     
 > <a href="https://docs.google.com/document/d/16yw7E1QuKPFj3NTT_GyH4yrXfqb6nIrGWOs5_CSo8Is/edit?usp=sharing">Ссылка на проект</a>
   <br>   
-      
+  
+✅ Проект 5: cоставить чек-лист проверок для главной страницы сайта cloud.ru
+  
+> <a href="https://docs.google.com/spreadsheets/d/1M_fw-HeNYLmGkihhJoWfmoGNMH3cudWRVKPFY648KEg/edit?usp=sharing">Ссылка на чек-лист</a> <br>     
+  
+  
+
+<p>
+<p>
+  
+<p>
+<p>
+<p><p>
 
 <a href="http://joxi.ru/V2VzDLGUGaEnR2" target="_blank"><img src="http://dl3.joxi.net/drive/2023/06/06/0040/0046/2662446/46/b22964d9e3.jpg"></a>
   
