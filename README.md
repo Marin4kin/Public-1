@@ -88,7 +88,9 @@ Response: { code: int; result: String; }
 Задание 4:  Запросы SQL для данных из 2-х таблиц animal_info и animal_classes.
 В процессе выполнения созданы и заполнины таблицы в PGAdmin4, затем там же составлены варианты запросов.<br>
 
-> <a href="https://drive.google.com/file/d/1w4qQWcwHZTCtdm6wNjfEmoVyM1Djl9l-/view?usp=sharing">Ссылка на чек-лист</a> <br>  
+> <a href="https://drive.google.com/file/d/1w4qQWcwHZTCtdm6wNjfEmoVyM1Djl9l-/view?usp=sharing">Ссылка на запросы</a> <br>  
+  
+<p> ✅ Учебный проект 5.  Составление SQL-запросов - фрагмент с использованием фукции RANK OWER.
 
 <a href="http://joxi.ru/V2VzDLGUGaEnR2" target="_blank"><img src="http://dl3.joxi.net/drive/2023/06/06/0040/0046/2662446/46/b22964d9e3.jpg"></a>
   
