@@ -8,7 +8,7 @@
 
 ##Навыки и технологии
   
-``Jira``,``qase.io``,``sitechco``,``Trello``,``Miro``,``Notion``,``Confluence``,``Swagger``,<br>
+``Jira``,``qase.io``,``sitechco``,``Trello``,``Miro``,``Notion``,``Confluence``,``Swagger``,``Swagger``Visual Studio Code``<br>
 ``Postman``,``Chrome DevTools``,``pgAdmn4``,``SQL``,``SoapUI``,``JMeter``,``Mockoon``,``curl``.
 
 Тестирование веб-ресурсов: создание и ведение тестовой документации (применение техник тест-дизайна, составление тест-планов, чек-листов/чит-листов, тест-кейсов, баг-репортов, анализ требований), проведение тестирования и составление отчета по нему. Использование различных систем хранения документации (Jira, Confluence, Trello, Qase.io, Sitechko, Checkvist, Miro)
