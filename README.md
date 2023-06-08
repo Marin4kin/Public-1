@@ -83,12 +83,12 @@ Response: { code: int; result: String; }
 тариф Тестовый / lon 50 lat / 55 / язык русский<br>
 Также создать несколько негативных сценариев и убедиться, что при неправильных данных запрос возвращает соответствующий результат <p>
 Была создана Postman-коллекция из 4 запросами с методом GET, и 2 переменными: 1 запрос с позитивными данными и 3 запроса с негативными (Тест на превышение лимита запросов для этого тарифа не проводился.)<p>
-  > <a href="https://drive.google.com/file/d/1da3oor3WYHxpcSvdFGXv3wsmRWfvfwNv/view?usp=sharing">Ссылка на json</a>
+  > <a href="https://drive.google.com/file/d/1kv3qEtua_dqWu0SFT4M9QMgyaMM3J61w/view?usp=sharing">Ссылка на json</a>
   
 Задание 4:  Запросы SQL для данных из 2-х таблиц animal_info и animal_classes.
 В процессе выполнения созданы и заполнины таблицы в PGAdmin4, затем там же составлены варианты запросов.<br>
 
-> <a href="https://drive.google.com/file/d/1kv3qEtua_dqWu0SFT4M9QMgyaMM3J61w/view?usp=sharing">Ссылка на запросы</a> <br>  
+> <a href="https://drive.google.com/file/d/1w4qQWcwHZTCtdm6wNjfEmoVyM1Djl9l-/view?usp=sharing">Ссылка на запросы</a> <br>  
   
 <p> ✅ Учебный проект 5.  Составление SQL-запросов - фрагмент с использованием фукции RANK OWER.
 
