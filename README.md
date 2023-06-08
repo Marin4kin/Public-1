@@ -80,21 +80,47 @@ Response: { code: int; result: String; }
   
 > <a href="https://docs.google.com/spreadsheets/d/1M_fw-HeNYLmGkihhJoWfmoGNMH3cudWRVKPFY648KEg/edit?usp=sharing">Ссылка на чек-лист</a> <br>     
  
-Задание 3: Тестирование API Яндекс.Погоды.<p>
-Необходимо с помощью Postman протестировать работу метода со следующими параметрами:<br>
+Задание 3: Тестирование API Яндекс.Погоды. Необходимо с помощью Postman протестировать работу метода со следующими параметрами:<br>
 тариф Тестовый / lon 50 lat / 55 / язык русский<br>
 Также создать несколько негативных сценариев и убедиться, что при неправильных данных запрос возвращает соответствующий результат <p>
-Была создана Postman-коллекция из 4 запросами с методом GET, и 2 переменными: 1 запрос с позитивными данными и 3 запроса с негативными (Тест на превышение лимита запросов для этого тарифа не проводился.)
-
+Была создана Postman-коллекция из 4 запросами с методом GET, и 2 переменными: 1 запрос с позитивными данными и 3 запроса с негативными (Тест на превышение лимита запросов для этого тарифа не проводился.)<p>
   
-Задание 4:  
+Задание 4:  Запросы SQL для данных из 2-х таблиц animal_info и animal_classes.<p>
+1)сколько всего животных у Вани?<p>
+можно посчитать имена животных Вани:<p>
 
+SELECT COUNT (name)
+FROM animal_info 
+WHERE owner='Ваня';
+
+можно посчитать сколько раз встречается владелец Ваня<p>
+
+SELECT COUNT (owner) 
+FROM animal_info 
+WHERE owner='Ваня';<p>
+
+2)имена всех кошек<p>
+
+можно найти соединением 2-х таблиц<p>
+
+SELECT name 
+FROM animal_info ai 
+JOIN animal_classes ac ON ai.class=ac.id  
+WHERE ac.class='кошка';
+
+а можно с помощью подзапроса<p>
+
+SELECT name 
+FROM animal_info 
+WHERE class = 
+(SELECT id FROM animal_classes WHERE class='кошка');<p>
+
+3)Уникальные имена всех хозяев, отсортированные по алфавиту
+
+SELECT DISTINCT owner 
+FROM animal_info
+ORDER BY 1 ASC;
 <p>
-<p>
-  
-<p>
-<p>
-<p><p>
 
 <a href="http://joxi.ru/V2VzDLGUGaEnR2" target="_blank"><img src="http://dl3.joxi.net/drive/2023/06/06/0040/0046/2662446/46/b22964d9e3.jpg"></a>
   
