@@ -85,38 +85,29 @@ Response: { code: int; result: String; }
 Также создать несколько негативных сценариев и убедиться, что при неправильных данных запрос возвращает соответствующий результат <p>
 Была создана Postman-коллекция из 4 запросами с методом GET, и 2 переменными: 1 запрос с позитивными данными и 3 запроса с негативными (Тест на превышение лимита запросов для этого тарифа не проводился.)<p>
   
-Задание 4:  Запросы SQL для данных из 2-х таблиц animal_info и animal_classes.<p>
-1)сколько всего животных у Вани?<p>
-можно посчитать имена животных Вани:<p>
-
+Задание 4:  Запросы SQL для данных из 2-х таблиц animal_info и animal_classes.<br>
+1)сколько всего животных у Вани?<br>
+можно посчитать имена животных Вани:<br>
 SELECT COUNT (name)
 FROM animal_info 
 WHERE owner='Ваня';
-
-можно посчитать сколько раз встречается владелец Ваня<p>
-
+можно посчитать сколько раз встречается владелец Ваня<br>
 SELECT COUNT (owner) 
 FROM animal_info 
-WHERE owner='Ваня';<p>
-
-2)имена всех кошек<p>
-
-можно найти соединением 2-х таблиц<p>
-
+WHERE owner='Ваня';<br>
+2)имена всех кошек<br>
+можно найти соединением 2-х таблиц<br>
 SELECT name 
 FROM animal_info ai 
 JOIN animal_classes ac ON ai.class=ac.id  
 WHERE ac.class='кошка';
-
-а можно с помощью подзапроса<p>
-
+а можно с помощью подзапроса<br>
 SELECT name 
 FROM animal_info 
 WHERE class = 
-(SELECT id FROM animal_classes WHERE class='кошка');<p>
+(SELECT id FROM animal_classes WHERE class='кошка');<br>
 
-3)Уникальные имена всех хозяев, отсортированные по алфавиту
-
+3)Уникальные имена всех хозяев, отсортированные по алфавиту<br>
 SELECT DISTINCT owner 
 FROM animal_info
 ORDER BY 1 ASC;
