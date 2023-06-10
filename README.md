@@ -24,12 +24,11 @@
 > <a href="https://drive.google.com/file/d/1da3oor3WYHxpcSvdFGXv3wsmRWfvfwNv/view?usp=sharing">Ссылка на проект</a>
   <br> 
   
-<"<a href="http://joxi.ru/5mdXdYGiJKdXPm" target="_blank"><img src="http://dl3.joxi.net/drive/2023/06/11/0040/0046/2662446/46/61803f89ed.jpg"></a>
+<"<a href="http://joxi.ru/5mdXdYGiJKdXPm" target="_blank"><img src="http://dl3.joxi.net/drive/2023/06/11/0040/0046/2662446/46/61803f89ed.jpg"></a>"
   
   В данном проекте были использованы такие инструменты qase.io, Sitechco, Confluence, Jira, Miro, Postman.
   
-  <a href="http://joxi.ru/YmEXKaqiLjqNLr" target="_blank"><img src="http://dl4.joxi.net/drive/2023/06/08/0040/0046/2662446/46/a27a4c9313.jpg"></a>
-  
+   
 <p>Итоги: В процессе выполнения проекта проведен практически полный цикл тестирования нового функционала, далее на основе всего рассмотренного - собраны метрики тестирования, по ним хорошо видно, что все в порядке, добавленный функционал работает в соответствии с требованиями и здравым смыслом, и готов к использованию. Также сделаны предположения, что и как можно поменять в этом продукте, чтобы улучшить его для клиентов.<p>
  
 <p> ✅ Проект 2: тестовое задание. Финал первого курса.
