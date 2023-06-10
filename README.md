@@ -24,7 +24,7 @@
 > <a href="https://drive.google.com/file/d/1da3oor3WYHxpcSvdFGXv3wsmRWfvfwNv/view?usp=sharing">Ссылка на проект</a>
   <br> 
   
-<a href="http://joxi.ru/brR0a5dH846x82" target="_blank"><img src="http://dl3.joxi.net/drive/2023/06/08/0040/0046/2662446/46/c0f0867ea6.jpg"></a>
+<"<a href="http://joxi.ru/5mdXdYGiJKdXPm" target="_blank"><img src="http://dl3.joxi.net/drive/2023/06/11/0040/0046/2662446/46/61803f89ed.jpg"></a>
   
   В данном проекте были использованы такие инструменты qase.io, Sitechco, Confluence, Jira, Miro, Postman.
   
