@@ -39,7 +39,6 @@
 > <a href="http://joxi.ru/5mdXdYGiJKdXPm" target="_blank"><img src="http://dl3.joxi.net/drive/2023/06/11/0040/0046/2662446/46/61803f89ed.jpg"></a>
   
   В данном проекте были использованы такие инструменты qase.io, Sitechco, Confluence, Jira, Miro, Postman.
-  
    
 <p>Итоги: В процессе выполнения проекта проведен практически полный цикл тестирования нового функционала,  
 далее на основе всего рассмотренного - собраны метрики тестирования, по ним хорошо видно, что все в порядке,  
@@ -72,7 +71,7 @@
 <p> ✅ Проект 3: Тестирование API ручки регистрации</p>
 Есть запрос регистрации вида:  
 Request: api/v1/register { login: String, email: String; password: String; confirmPassword: String; }  
-Response: { code: int; result: String;}  
+Response: { code: int; result: String;}<br>
 Также есть ручка getUser, которая возвращает информацию о том, существует ли такой пользователь или нет.  
 Request: api/v1/getUser { login: String }  
 Response: { code: int; result: String;}  
