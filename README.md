@@ -119,7 +119,6 @@ UX/UI,<br>
 > <a href="https://drive.google.com/file/d/1da3oor3WYHxpcSvdFGXv3wsmRWfvfwNv/view?usp=sharing">Ссылка на проект</a>
   <br> 
   
-> <a href=""></a>
 ![image](https://github.com/Marin4kin/Public-1/assets/132477713/9b2ecda6-fc8b-4b43-b096-e739cb60a32a)
 
   
