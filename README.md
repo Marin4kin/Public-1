@@ -8,8 +8,9 @@
 
 ## Навыки и технологии
   
-``Jira``,``qase.io``,``sitechco``,``Trello``,``Miro``,``Notion``,``Confluence``,``Swagger``,``Postman``<br>
-``Chrome DevTools``,``pgAdmn4``,``SQL``,``SoapUI``,``JMeter``,``Mockoon``,``curl``,``Visual Studio Code``.
+``Jira``,``qase.io``,``sitechco``,``Trello``,``Miro``,``Notion``,``Confluence``<br>
+``Swagger``,``Postman``,``Chrome DevTools``,``pgAdmn4``,``SQL``,``SoapUI``,``JMeter``<br>
+``Mockoon``,``curl``,``Visual Studio Code``,``Android Studio``,``Charles``
 
 <p>Тестирование веб-ресурсов: создание и ведение тестовой документации (применение техник тест-дизайна, составление тест-планов, чек-листов/чит-листов, тест-кейсов, баг-репортов,  
 анализ требований), проведение тестирования и составление отчета по нему. Использование различных систем хранения документации (Jira, Confluence, Trello, Qase.io, Sitechko, Checkvist, Miro). Работа с базами данных (pgAdmin, практические навыки работы с SQL). Тестирование REST API (Postman, curl, DevTools, Mockoon, Swagger), тeстирование SOAP сервисов (SOAP UI), нагрузочное тестирование (базовые знания Jmeter).</p>
